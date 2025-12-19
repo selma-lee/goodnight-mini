@@ -3,15 +3,16 @@
  - :lipstick:Changed style
  - :bug:Incomplete display issue on Sundays
 
-# 1.0.6
- - :sparkles:Cloud Development -> Local Storage
- - :arrow_up:Updated Taro version to 4x
-
-# 1.0.2
+### Logs in chinese
  - :sparkles:增加强制更新、分享功能
  - :lipstick:修改样式
  - :bug:周日显示不全问题
 
 # 1.0.6
+ - :sparkles:Cloud Development -> Local Storage
+ - :arrow_up:Updated Taro version to 4x
+
+### Logs in chinese
  - :sparkles:云开发->本地存储
  - :arrow_up:更新taro版本至4x
+
